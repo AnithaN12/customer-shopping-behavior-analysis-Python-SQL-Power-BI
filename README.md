@@ -58,7 +58,7 @@ Ten structured SQL queries were executed in MySQL to evaluate revenue drivers an
 ## 📈 Power BI Dashboard
 An interactive Power BI dashboard was built featuring KPI cards (**3.9K Customers**, **\$59.76 Average Purchase Amount**, **3.75 Average Review Rating**), dynamic slicers (Subscription Status, Gender, Category, Shipping Type), and breakdowns of revenue and sales across categories and age groups.
 
-![Customer Shopping Behavior Dashboard](images/dashboard_preview.png)
+<img width="1319" height="734" alt="Customer Shopping Behavior Dashboard" src="https://github.com/user-attachments/assets/f9002f34-64b6-412c-b5d1-4882309f4b2f" />
 
 ---
 
@@ -70,7 +70,6 @@ An interactive Power BI dashboard was built featuring KPI cards (**3.9K Customer
 * **Targeted Marketing:** Prioritize campaigns toward high-revenue **Young Adult** and **Middle-aged** segments as well as **Express Shipping** shoppers.
 
 ---
-
 
 5. Open `powerbi/customer_shopping_dashboard.pbix` in Power BI Desktop to interact with the visuals.
 
