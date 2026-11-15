@@ -70,6 +70,3 @@ An interactive Power BI dashboard was built featuring KPI cards (**3.9K Customer
 * **Targeted Marketing:** Prioritize campaigns toward high-revenue **Young Adult** and **Middle-aged** segments as well as **Express Shipping** shoppers.
 
 ---
-
-5. Open `powerbi/customer_shopping_dashboard.pbix` in Power BI Desktop to interact with the visuals.
-
