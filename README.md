@@ -70,3 +70,11 @@ An interactive Power BI dashboard was built featuring KPI cards (**3.9K Customer
 * **Targeted Marketing:** Prioritize campaigns toward high-revenue **Young Adult** and **Middle-aged** segments as well as **Express Shipping** shoppers.
 
 ---
+
+## 📄  License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project, subject to the license terms.
+
+See the LICENSE file for details.
+
+---
